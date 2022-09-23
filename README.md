@@ -1,7 +1,7 @@
-# toko-online-our.store
+# our.store
 
 
----For Customer---
+------For Customer------
 
 login page
 ![login](https://user-images.githubusercontent.com/101534228/191953496-ec686258-0d6e-4d34-bad7-2c3480430b48.jpg)
@@ -16,7 +16,7 @@ transaksi page pelanggan
 ![transaksi pelanggan](https://user-images.githubusercontent.com/101534228/191953696-acd18731-ecd4-492d-b8a1-e438e46e81bb.jpg)
 
 
----For Officer---
+------For Officer------
 
 login page
 ![login](https://user-images.githubusercontent.com/101534228/191953940-ca1148f9-dde9-4b35-99c0-dbfa8d968f7e.jpg)
